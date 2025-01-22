@@ -859,7 +859,7 @@ form label {
 .fh5co-cover .display-tc h2 {
   font-size: 20px;
   line-height: 1.5;
-  margin-top: 20px;
+  margin-top: auto;
   font-family: Engagement;
 }
 @media screen and (max-width: 480px) {
